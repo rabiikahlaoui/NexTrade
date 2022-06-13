@@ -1,11 +1,11 @@
 import { useState } from "react"
-import Rate from "./cmc-table/Rate"
+import Rate from "./cmc-table/rate"
 import fire from "../assets/fire.png"
 import btc from "../assets/btc.png"
 import usdt from "../assets/usdt.png"
 import gainers from "../assets/gainers.png"
 import recent from "../assets/recent.png"
-import TrendingCard from "./TrendingCard"
+import TrendingCard from "./trendingCard"
 import ReactSwitch from "react-switch"
 
 const styles = {
